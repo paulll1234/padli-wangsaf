@@ -72,10 +72,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiecaa/Wansap-Bot.git"
+    "url": "git+https://github.com/paulll1234/padli-wangsaf.git"
   },
   "bugs": {
-    "url": "https://github.com/xiecaa/Wansap-Bot/issues"
+    "url": "https://github.com/paulll1234/padli-wangsaf/issues"
   },
-  "homepage": "https://github.com/xiecaa/Wansap-Bot#readme"
+  "homepage": "https://github.com/xiecaa/padli-wangsaf#readme"
 }
